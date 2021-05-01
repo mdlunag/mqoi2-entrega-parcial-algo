@@ -7,7 +7,7 @@ d=extreure_dades('ejemplar.txt')
 Irap,Irbp,Iela,Ipeca,Ipeca_ds,ID=generar_indicadors(d)
 print(d)
 
-#Preproces
+#PreprocesHOLA
 #escollim el ECA de cada illa
 ECA_i=0
 l_ECA=[]
