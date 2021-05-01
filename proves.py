@@ -1,5 +1,3 @@
-#hola
-
 PPI=[]
 l_ppi_int=[]
 for ppi in l[2:2+N]:
